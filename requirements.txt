@@ -1,0 +1,8 @@
+opencv-python
+tensorflow
+numpy
+sounddevice
+librosa
+python-telegram-bot
+python-dotenv
+scipy
